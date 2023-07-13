@@ -1,4 +1,4 @@
 class Color:
-    def __init__(self, color) -> None:
+    def __init__(self, color):
         self.color = color 
         
