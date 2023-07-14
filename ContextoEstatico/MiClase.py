@@ -15,3 +15,4 @@ print(miClase1.variables_clase)
 
 miClase2 = MiClase('Otro valor de variable instancia')
 print(miClase2.variable_instancia)
+
